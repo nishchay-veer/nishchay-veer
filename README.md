@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishchay Veer</h1>
 <h3 align="center">A student with a pang of great hunger for learning , having great fluency in Data Structures and Algorithms ,Data Science and Web Development.</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/079b329a0b73571c3bcd165fc6cf33a0/tumblr_nlcpiugEP61uqpz9ro1_500.gif"/>
+<img align="center" alt="Coding" width="400" src="https://64.media.tumblr.com/079b329a0b73571c3bcd165fc6cf33a0/tumblr_nlcpiugEP61uqpz9ro1_500.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishchay-veer" alt="nishchay-veer" /></a> </p>
 
