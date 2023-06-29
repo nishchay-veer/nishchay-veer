@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishchay-veer" alt="nishchay-veer" /></a> </p>
 
-- 🔭 I’m currently working on [TEDx NITJ](https://github.com/nishchay-veer/tedx-nitj)
+- 🔭 I’m currently working on [THANOS](https://github.com/thanos-io)
 
 - 🌱 I’m currently learning **Node.js, Go**
 
