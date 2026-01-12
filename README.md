@@ -17,7 +17,7 @@
 
 #### 🔷 my latest projects
 
-- **[Draw](https://github.com/nishchay-veer/canvas-app)** — Built a real-time collaborative whiteboard using Next.js, TypeScript, and WebSockets, enabling multi-user canvas synchronization with 5+ drawing tools and custom undo/redo functionality. Architected monorepo with Turborepo managing 8+ packages including shared UI components, Prisma database layer, and real-time WebSocket server with room-based broadcasting. Implemented canvas rendering with pan/zoom controls, user-specific action history tracking, and PNG export using HTML5 Canvas API
+- **[Draw](https://github.com/nishchay-veer/canvas-app)** — Created a live team-based drawing board with Next.js, TypeScript, and WebSockets. This tool allows multiple users to draw together in real-time offering over five drawing options and a custom undo/redo feature. Set up a monorepo using Turborepo to manage more than eight packages. These include shared UI parts, a Prisma database layer, and a live WebSocket server that broadcasts to specific rooms. Added canvas display with pan and zoom controls, tracked each user's actions , and allowed PNG exports using the HTML5 Canvas API.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nishchay-veer&color=blueviolet&style=flat-square" alt="Profile views" />
